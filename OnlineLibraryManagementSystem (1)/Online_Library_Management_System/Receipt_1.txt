@@ -1,8 +1,0 @@
-Library Borrowing Receipt
---------------------------
-Rental ID: 1
-User ID: 6
-Book ID: 5
-Borrow Date: 2024-11-30
-Return Date: 2024-11-30
-Status: returned

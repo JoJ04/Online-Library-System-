@@ -1,9 +1,0 @@
-Library Report
-
-Total Borrowings: 5
-Total Books: 10
-Total Users: 3
-
-Most Borrowed Book:
-Title: The Alchemist
-Borrow Count: 2
